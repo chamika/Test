@@ -3,3 +3,5 @@ This is a sample text file
 master update
 
 master update2
+
+master update3
